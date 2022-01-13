@@ -1,6 +1,10 @@
+
+import Navbar from  "./components/NavBar";
+
+
 function App() {
   return (
-    <h1>Boa tarde</h1>
+     <Navbar />
   );
 }
 
