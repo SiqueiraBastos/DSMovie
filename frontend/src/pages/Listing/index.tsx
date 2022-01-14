@@ -1,6 +1,9 @@
-function Listing () {
-    return (
-        <h1>Pagina de Listagem</h1>
+import Paginatin from "components/Pagination";
+
+function Listing() {
+
+    return(
+        <Paginatin />
     );
 }
 
